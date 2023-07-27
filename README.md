@@ -3,6 +3,7 @@
 A small repo that implements the basic NeRF
 
 Mainly used as a teaching example
+![example](./images/tiny_nerf_example.PNG)
 
 ## Data
 
